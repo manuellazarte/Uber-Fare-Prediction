@@ -26,3 +26,8 @@ La Regresión Lineal utilizada como baseline obtuvo:
 
 - **R²:** 0.7306
 - **RMSE:** 4.7547
+
+## Integrantes del proyecto realizado:
+- Manuel Lazarte
+- Roberto Lasarte
+- Facundo Quinteros
